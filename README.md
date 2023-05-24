@@ -4,4 +4,5 @@ After entering how many rounds you want to play, you can play 1vs1-blackjack aga
 
 # What I learned
 
-* OOP in Python, Game Loops
+* OOP in Python
+* Simple Game Loops
