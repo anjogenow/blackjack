@@ -1,6 +1,5 @@
 import random
 
-
 class Card:
 
   def __init__(self, suit, rank, value):
@@ -10,7 +9,6 @@ class Card:
 
   def __str__(self):
     return f"{self.rank} of {self.suit}"
-
 
 class Deck:
 
@@ -183,7 +181,6 @@ class Game():
         print("Dealer wins.")
       return True
     return False
-
 
 g = Game()
 g.play()
